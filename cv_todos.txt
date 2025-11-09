@@ -1,0 +1,9 @@
+1. continue studying cv using the tutorial: https://www.youtube.com/watch?v=eDIj5LuIL4A&list=PLb49csYFtO2HAdNGChGzohFJGnJnXBOqd&index=2
+2. (not important) Note the resolution of the code for io_webcam doesn't change its resolution, if have time then only find out why. I chatgpted it so have a look at its response
+
+
+
+Resources:
+1. CV written tutorials: https://www.geeksforgeeks.org/computer-vision/computer-vision/
+2. CV YT tutorials: https://www.youtube.com/watch?v=eDIj5LuIL4A&list=PLb49csYFtO2HAdNGChGzohFJGnJnXBOqd&index=3
+

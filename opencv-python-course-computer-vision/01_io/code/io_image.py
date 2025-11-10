@@ -10,7 +10,7 @@ img = cv2.imread(image_path)
 
 # write image (using absolute path)
 
-cv2.imwrite(os.path.join('/home/isaac/cv/opencv-python-course-computer-vision/01_io/code/data', 'dog_out.jpg'), img)
+cv2.imwrite(os.path.join('/home/isaac/cv/opencv-python-course-computer-vision/data_global', 'dog_out.jpg'), img)
 
 # visualize image
 

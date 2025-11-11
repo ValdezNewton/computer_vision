@@ -10,3 +10,7 @@ __pycache__/
 .vscode/
 .DS_Store
 Thumbs.db
+face-project-env/
+__pycache__/
+*.pyc
+output/

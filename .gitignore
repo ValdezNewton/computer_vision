@@ -1,16 +1,8 @@
-.venv/
+# Ignore the virtual environment directory
 venv/
-env*/
-cv-env-1/
-__pycache__/
+
+# Ignore any log files
+*.log
+
+# Ignore Python bytecode files
 *.pyc
-*.pyo
-*.pyd
-*.egg-info/
-.vscode/
-.DS_Store
-Thumbs.db
-face-project-env/
-__pycache__/
-*.pyc
-output/

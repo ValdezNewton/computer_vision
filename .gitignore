@@ -1,6 +1,9 @@
 # Ignore the virtual environment directory
 venv/
 
+# Ignore projects
+projects/
+
 # Ignore any log files
 *.log
 
